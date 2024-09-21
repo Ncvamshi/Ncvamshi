@@ -1,7 +1,7 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5612AQGs3cA_9DYwuA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1677890171661?e=1732147200&v=beta&t=q-cWx6nMnUwjUUkzZeUzxiCuhqmKOzmi4ws-me04zSs)]
+![MasterHead](https://media.licdn.com/dms/image/v2/D5612AQGs3cA_9DYwuA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1677890171661?e=1732147200&v=beta&t=q-cWx6nMnUwjUUkzZeUzxiCuhqmKOzmi4ws-me04zSs)
 <h1 align="center">Hi 👋, I'm N.C.Krishna Vamshi</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt ="Coffee-while-Coding" width ="500" src="https://cdn.dribbble.com/users/698857/screenshots/2956148/final-animation.gif">
+<img align="right" alt ="Coffee-while-Coding" width ="400" src="https://cdn.dribbble.com/users/698857/screenshots/2956148/final-animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ncvamshi&label=Profile%20views&color=0e75b6&style=flat" alt="ncvamshi" /> </p>
 
