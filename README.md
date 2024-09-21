@@ -99,4 +99,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40" />
   </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="Kali Linux" width
+    <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="Kali Linux" width="40" height="40" />
+  </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ncvamshi&show_icons=true&locale=en&layout=compact" alt="ncvamshi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ncvamshi&show_icons=true&locale=en" alt="ncvamshi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ncvamshi&" alt="ncvamshi" /></p>
