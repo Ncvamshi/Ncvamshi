@@ -99,7 +99,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40" />
   </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="Kali Linux" width="40" height="40" />
+    <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40" />
   </a>
 </p>
 
